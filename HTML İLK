@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <body>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Şeyhan Şahin</title>
@@ -10,16 +11,23 @@
     <p>Tokat'ta doğdu</p>
     <p>Sosyal Medya Hesapları:</p>
 </head>
+<ul>
    <li> <a  href="https://www.instagram.com/seyhannsh/"> İnstagram </a></li>
-   <li><a href="https://x.com/seyhannsh/">Twitter</a>
-   </li>
+   <li><a href="https://x.com/seyhannsh/">Twitter</a> </li>
+</ul>
+   <h2 style="text-align: center;">Hobiler</h2>
+   <OL>
+    <li>Futbol</li>
+    <li>Bilgisayar Oyunları</li>
+    <li>Koşu</li>
+   </OL>
+   <li>Favori Oyunum</li>
+   <a href="https://playvalorant.com/tr-tr/">
+    <img src="valorant.jpg" alt="valorant">
+   </a>
+
     
 
-
-
-
-
-<body>
     
 </body>
 </html>
